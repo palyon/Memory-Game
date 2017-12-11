@@ -1,20 +1,8 @@
-.navbar {
-  background-color: #222;
+.Jobs {
   text-align: center;
-  padding: 20px;
-}
-
-.navbar a {
-  color: white;
-  margin: 5px;
-}
-
-.navbar a:hover {
-  color: orange;
-}
-
-.navbar a:active {
-  color:red;
+  margin: 0 auto;
+  width: 600px;
+  margin-top: 20px;
 }
 
 .App {
